@@ -1,1 +1,2 @@
-# etiket-server -> Local Host copy of my Team IceCode for KodeGo Bootcamp Capstone Project etiket.com
+# etiket-server 
+# -> Local Host copy of my Team IceCode Capstone Project etiket.com for KodeGo Bootcamp.
